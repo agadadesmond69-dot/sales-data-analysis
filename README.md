@@ -74,5 +74,5 @@ Author
 
 Desmond Agada
 
-LinkedIn: [Add your LinkedIn URL]
-GitHub: [Add your GitHub URL]
+LinkedIn: www.linkedin.com/in/desmond-agada-83a73b3b4
+GitHub: https://github.com/agadadesmond69-dot/sales-data-analysis
